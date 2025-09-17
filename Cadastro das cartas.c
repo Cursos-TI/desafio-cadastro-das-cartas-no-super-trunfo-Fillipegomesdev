@@ -51,7 +51,7 @@ int main(){
     scanf("%d", &Populacao1);
     // Lê um número inteiro e guarda em Populacao1.
 
-    printf("Digite a area da cidade: ");
+    printf("Digite a área da cidade: ");
     // Pede a área da cidade.
     scanf("%f", &Área1);
     // Lê um número decimal (float) e guarda em Área1.
@@ -79,7 +79,7 @@ int main(){
     printf("Digite a populacao da cidade: ");
     scanf("%d", &Populacao2);
 
-    printf("Digite a area da cidade: ");
+    printf("Digite a área da cidade: ");
     scanf("%f", &Área2);
 
     printf("Digite o PIB da cidade: ");
